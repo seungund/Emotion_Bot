@@ -1,0 +1,11 @@
+.DS_Store
+.txt
+private.txt
+.env
+.png
+.docx
+.ppt
+
+archive
+model_test
+imgsave
